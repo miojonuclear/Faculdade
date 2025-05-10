@@ -1,0 +1,5 @@
+git add Faculdade.js
+git commit -m"Aulas"
+git branch -M faculdade
+git remote add origin
+git push -u origin faculdade
